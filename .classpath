@@ -11,5 +11,7 @@
 	<classpathentry kind="lib" path="/home/leonardo/DesafiosOne/lib/jgoodies-common-1.2.0.jar"/>
 	<classpathentry kind="lib" path="/home/leonardo/DesafiosOne/lib/jcalendar-1.4.jar"/>
 	<classpathentry kind="lib" path="/home/leonardo/DesafiosOne/lib/mysql-connector-j-8.0.32.jar"/>
+	<classpathentry kind="lib" path="JARS/c3p0-0.9.5.4.jar"/>
+	<classpathentry kind="lib" path="JARS/mchange-commons-java-0.2.16.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
